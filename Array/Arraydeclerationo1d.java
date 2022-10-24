@@ -1,6 +1,4 @@
 //Array
-package Day4;
-
 public class Arrayoned {
 	public static void main(String[] args) {
 //		long[] contact; //declaration
