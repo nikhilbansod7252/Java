@@ -1,5 +1,3 @@
-package Day4;
-
 public class Arraaytwod {
 
 	public static void main(String[] args) {
