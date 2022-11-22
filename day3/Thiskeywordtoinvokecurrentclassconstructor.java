@@ -7,6 +7,8 @@ class ClassB {
 	}
 	ClassB(int x) {
 	  this();
+		// this() is used to invoke the constructor of the current class
+	 
 	  System.out.println(x);	
 	}
 	
